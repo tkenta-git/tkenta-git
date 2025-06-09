@@ -1,7 +1,7 @@
 ## Hi there, I'm Kenta Tanaka👋
 
 [![tkenta-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkenta-git)](https://github.com/anuraghazra/github-readme-stats)
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css)
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql)
 
 <!--
 **tkenta-git/tkenta-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
