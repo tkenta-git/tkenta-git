@@ -1,6 +1,5 @@
 ## Hi there, I'm Kenta Tanaka👋
 
-[![tkenta-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkenta-git)](https://github.com/anuraghazra/github-readme-stats)
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,py,r,html,css,mysql,figma,ai,lr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkenta-git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
